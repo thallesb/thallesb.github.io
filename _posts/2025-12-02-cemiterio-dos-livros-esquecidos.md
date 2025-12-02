@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Citações — O Cemitério dos Livros Esquecidos"
-date:   2025-01-01 12:00:00 -0500
+date:   2025-12-02 19:47:00 -0300
 categories: update
 ---
 
